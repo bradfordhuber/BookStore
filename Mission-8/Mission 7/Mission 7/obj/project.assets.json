@@ -1161,11 +1161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\strik\\Downloads\\Mission 7\\Mission 7\\Mission 7.csproj",
+      "projectUniqueName": "C:\\Users\\strik\\OneDrive\\Documents\\GitHub\\Mission--8\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj",
       "projectName": "Mission 7",
-      "projectPath": "C:\\Users\\strik\\Downloads\\Mission 7\\Mission 7\\Mission 7.csproj",
+      "projectPath": "C:\\Users\\strik\\OneDrive\\Documents\\GitHub\\Mission--8\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj",
       "packagesPath": "C:\\Users\\strik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\strik\\Downloads\\Mission 7\\Mission 7\\obj\\",
+      "outputPath": "C:\\Users\\strik\\OneDrive\\Documents\\GitHub\\Mission--8\\Mission-8\\Mission 7\\Mission 7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\strik\\AppData\\Roaming\\NuGet\\NuGet.Config",
