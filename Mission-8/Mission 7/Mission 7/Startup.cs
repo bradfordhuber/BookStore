@@ -35,6 +35,7 @@ namespace Mission_7
             });
 
             services.AddScoped<IBookstoreRepository, EFBookstoreRepository>();
+            services.AddScoped<IPaymentRepository, EFPaymentRepository>();
             services.AddRazorPages();
             services.AddDistributedMemoryCache();
             services.AddSession();
