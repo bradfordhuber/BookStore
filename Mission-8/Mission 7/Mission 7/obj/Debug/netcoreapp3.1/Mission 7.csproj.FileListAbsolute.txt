@@ -238,3 +238,5 @@ C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 
 C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\_CartLayout.cshtml.g.cs
 C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Checkout.cshtml.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\PaymentComplete.cshtml.g.cs
