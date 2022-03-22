@@ -240,3 +240,17 @@ C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 
 C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Views\Payment\Checkout.cshtml.g.cs
 C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\PaymentComplete.cshtml.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Mission 7.RazorComponent.input.cache
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Books.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Payments.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Mission 7.RazorComponent.output.cache
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\RazorDeclaration\Mission 7.dll
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Books.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Payments.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\strik\OneDrive\Documents\GitHub\Mission--8\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
