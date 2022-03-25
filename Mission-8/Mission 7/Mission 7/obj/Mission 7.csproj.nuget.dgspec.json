@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\strik\\OneDrive\\Documents\\GitHub\\Mission--8\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj": {}
+    "C:\\Users\\Matthias\\Documents\\GitHub\\BookStore\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\strik\\OneDrive\\Documents\\GitHub\\Mission--8\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj": {
+    "C:\\Users\\Matthias\\Documents\\GitHub\\BookStore\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\strik\\OneDrive\\Documents\\GitHub\\Mission--8\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj",
+        "projectUniqueName": "C:\\Users\\Matthias\\Documents\\GitHub\\BookStore\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj",
         "projectName": "Mission 7",
-        "projectPath": "C:\\Users\\strik\\OneDrive\\Documents\\GitHub\\Mission--8\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj",
-        "packagesPath": "C:\\Users\\strik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\strik\\OneDrive\\Documents\\GitHub\\Mission--8\\Mission-8\\Mission 7\\Mission 7\\obj\\",
+        "projectPath": "C:\\Users\\Matthias\\Documents\\GitHub\\BookStore\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj",
+        "packagesPath": "C:\\Users\\Matthias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matthias\\Documents\\GitHub\\BookStore\\Mission-8\\Mission 7\\Mission 7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\strik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matthias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

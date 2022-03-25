@@ -1,6 +1,40 @@
 ﻿@page "/admin/payments"
-<h3>Payments</h3>
+@inherits OwningComponentBase<IPaymentRepository>
 
-@code {
+<PaymentTable TableTitle="Uncollected Payments" Payments="UncollectedPayments" ButtonLabel="Paid" PaymentSelected="CollectedPayment"></PaymentTable>
+     
+<PaymentTable TableTitle="Collected Payments" Payments="CollectedPayments" ButtonLabel="Reset" 
+              PaymentSelected="ResetPayment" ></PaymentTable>
 
+<button class="btn btn-info" @onclick="@(x=> UpdateData())">Refresh Data</button>
+@code {  
+    public IPaymentRepository repo => Service;
+
+    public IEnumerable<Payment> AllPayments { get; set; }
+    public IEnumerable<Payment> UncollectedPayments { get; set; }
+    public IEnumerable<Payment> CollectedPayments { get; set; }
+
+    protected async override Task OnInitializedAsync()
+    {
+        await UpdateData();
+    }
+
+    public async Task UpdateData()
+    {
+        AllPayments = await repo.Payments.ToListAsync();
+        UncollectedPayments = AllPayments.Where(x => !x.PaymentRecieved);
+        CollectedPayments = AllPayments.Where(x => x.PaymentRecieved);
+    }
+
+    public void CollectedPayment(int id) => UpdatePayment(id, true);
+
+    public void ResetPayment(int id) => UpdatePayment(id, false);
+
+    private void UpdatePayment (int id, bool paid)
+    {
+        Payment p = repo.Payments.FirstOrDefault(x => x.PaymentId == id);
+        p.PaymentRecieved = paid;
+        repo.SavePayment(p);
+    } 
 }
+ 

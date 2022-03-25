@@ -53,13 +53,34 @@ using Mission_7.Models;
 #line default
 #line hidden
 #nullable disable
-    public partial class Routed : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class PaymentTable : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 50 "C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\Pages\Admin\PaymentTable.razor"
+       
+
+    [Parameter]
+    public string TableTitle { get; set; } = "Payments";
+
+    [Parameter]
+    public IEnumerable<Payment> Payments { get; set; }
+
+    [Parameter]
+    public string ButtonLabel { get; set; } = "Paid";
+
+    [Parameter]
+    public EventCallback<int> PaymentSelected { get; set; }
+
+
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
