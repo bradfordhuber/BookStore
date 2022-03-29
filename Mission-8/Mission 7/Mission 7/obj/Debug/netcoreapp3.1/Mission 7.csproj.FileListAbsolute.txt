@@ -360,3 +360,9 @@ C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\obj\D
 C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
 C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
 C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
+C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs

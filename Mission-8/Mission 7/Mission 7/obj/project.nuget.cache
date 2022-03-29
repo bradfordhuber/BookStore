@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sSduw23Y2uLcEgPrH7YTLD6lsPqStj17zA6+hA8DEmfQrbcr7BvGEsCP8lS3T1+B9DVXRL3iTApHk0r4ae3IqA==",
+  "dgSpecHash": "FbrCV4DhCUlAMojKSEpt0o25SXsNpKyu0/E/T7tvKQJ+RowkJ8A4jiWfL2Pg9XwDjPdx7Rephlqkqknv3hPRuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Matthias\\Documents\\GitHub\\BookStore\\Mission-8\\Mission 7\\Mission 7\\Mission 7.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.22\\microsoft.aspnetcore.cryptography.internal.3.1.22.nupkg.sha512",
+    "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.22\\microsoft.aspnetcore.cryptography.keyderivation.3.1.22.nupkg.sha512",
+    "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.22\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.22.nupkg.sha512",
     "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -24,6 +27,8 @@
     "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.22\\microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
     "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
     "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.22\\microsoft.extensions.identity.core.3.1.22.nupkg.sha512",
+    "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.22\\microsoft.extensions.identity.stores.3.1.22.nupkg.sha512",
     "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.extensions.logging\\3.1.22\\microsoft.extensions.logging.3.1.22.nupkg.sha512",
     "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
     "C:\\Users\\Matthias\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
