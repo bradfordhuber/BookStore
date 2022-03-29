@@ -9,10 +9,10 @@
 <h3 class="bg-@ThemeColor text-white text-center p-1">@TitleText a Project </h3>
 
 <EditForm Model="b" OnValidSubmit="SaveBook">
-    <DataAnnotationsValidator></DataAnnotationsValidator>
+    
+        <DataAnnotationsValidator></DataAnnotationsValidator>
 
-    @if (b.BookId != 0)
-    {
+
         <div class="form-group">
             <label>Book Id</label>
             <input class="form-control" disabled value="@b.BookId" />
@@ -70,7 +70,6 @@
         <NavLink class="btn btn-secondary" href="/admin/books">Cancel</NavLink>
 
 
-    }
 </EditForm>
 
 @code {
@@ -102,6 +101,8 @@
         {
             repo.SaveBook(b);
         }
+
+        NavManager.NavigateTo("/admin/books");
     }
 
     [Inject]

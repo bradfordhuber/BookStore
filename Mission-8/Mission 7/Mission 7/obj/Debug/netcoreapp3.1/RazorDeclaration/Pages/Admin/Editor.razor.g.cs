@@ -63,7 +63,7 @@ using Mission_7.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 76 "C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\Pages\Admin\Editor.razor"
+#line 75 "C:\Users\Matthias\Documents\GitHub\BookStore\Mission-8\Mission 7\Mission 7\Pages\Admin\Editor.razor"
        
 
     [Parameter]
@@ -93,6 +93,8 @@ using Mission_7.Models;
         {
             repo.SaveBook(b);
         }
+
+        NavManager.NavigateTo("/admin/books");
     }
 
     [Inject]

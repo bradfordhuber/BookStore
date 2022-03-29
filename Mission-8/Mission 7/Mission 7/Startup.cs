@@ -41,7 +41,6 @@ namespace Mission_7
             services.AddSession();
             services.AddScoped<Basket>(x => SessionBasket.GetBasket(x));
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-
             services.AddServerSideBlazor();
         }
 
